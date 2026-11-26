@@ -1,0 +1,6 @@
+{
+  "name": "Storefront UX Comparison",
+  "description": "Side-by-side interactive comparison of Original Replica, Version 1 (Intuitive Accounts), and Version 2 (Nielsen's 10 Heuristics).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
